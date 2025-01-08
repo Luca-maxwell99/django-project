@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-#!&e6ew3284-(z*4^#aai0k2n^-h&5p$49(a3-o^)$t9lbzlnq
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    ,'.herokuapp.com'
+    '.herokuapp.com',
+    '.https://project-hello-world-test-0cf34b6fbe15.herokuapp.com/'
 ]
 
 
